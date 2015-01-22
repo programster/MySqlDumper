@@ -48,7 +48,7 @@
 namespace programster\mysqldumper;
 
 
-class MySqlDumper
+class DatabaseDumper
 {
     private $m_consistencySwitch = '--lock-all-tables';
     private $m_backupDirectory;
