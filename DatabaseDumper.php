@@ -45,6 +45,8 @@
  * Tested to work on Ubuntu Server 12.04 LTS
  */
 
+namespace programster/mysqldumper;
+
 
 class MySqlDumper
 {
